@@ -2,4 +2,6 @@ p.italic {
     font-style: italic;
 }
 
-
+.navbar-default {
+  background: none;
+}
